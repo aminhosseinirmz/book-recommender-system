@@ -254,7 +254,7 @@ These are important because a recommender should not only be accurate, but also 
 ## How to Run
 
 1. Install dependencies
-2. Make sure the dataset files are available in the expected `data/` directory
+2. Make sure the dataset files are available in the link
 3. Launch Jupyter Notebook or Google Colab
 4. Open:
 
