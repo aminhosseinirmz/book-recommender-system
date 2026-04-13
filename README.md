@@ -247,7 +247,7 @@ The notebook includes model evaluation for ALS using **RMSE** and also discusses
 - serendipity
 - feedback loops
 
-These are important because a recommender should not only be accurate, but also useful and varied. :contentReference[oaicite:5]{index=5}
+These are important because a recommender should not only be accurate, but also useful and varied. 
 
 ---
 
