@@ -13,7 +13,7 @@ The notebook implements and compares:
 - content-based recommendation using **TF-IDF** and **CountVectorizer**
 - hybrid recommendation with **switched** and **weighted ensemble** methods
 
-The dataset used in this project contains **278,858 users**, **1,149,780 ratings**, and **271,379 books**. :contentReference[oaicite:2]{index=2}
+The dataset used in this project contains **278,858 users**, **1,149,780 ratings**, and **271,379 books**.
 
 ---
 
